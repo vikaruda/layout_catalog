@@ -1,0 +1,2 @@
+*{box-sizing:border-box}.nav__list{align-items:center;font-weight:500;list-style-type:none;display:flex}.nav__item{margin-right:20px}.nav__item:last-child{margin-right:0}.nav__link{color:#060b35;white-space:nowrap;padding:23px 0;text-decoration:none;display:block}.nav__link:hover{color:#00acdc}.is-active:after{content:"";background-color:#00acdc;width:100%;height:4px;display:block;position:absolute;bottom:0;left:0}.is-active{color:#00acdc;position:relative}
+/*# sourceMappingURL=index.c084a87e.css.map */
